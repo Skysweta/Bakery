@@ -10,4 +10,4 @@ A responsive bakery website with beautiful animations and responsive in design.
 
 It is made using Html, CSS , Js and ScrollReveal.
 
-## Visit the website here - https://skyspotify.netlify.app/
+## Visit the website here - https://sky-bakery.netlify.app/
